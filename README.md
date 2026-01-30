@@ -143,4 +143,4 @@ This project demonstrates a complete RAG-based AI Teaching Assistant using Endee
 ![Example Output](Imgs/Output.png)
 
 ### Endee Vector DB
-![Endee Vector DB Screenshot](Imgs/Endee_db_Vectors.png)
+![Endee Vector DB Screenshot](Imgs/db_Vectors_Endee.png)
