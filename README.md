@@ -65,7 +65,7 @@ Endee enables:
 
 **Clone repo**
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone "https://github.com/Muragharajendra/RAG_Based_AI_Teaching_Assistant"
 cd RAG_Based_AI_Teaching_Assistant
 ```
 
