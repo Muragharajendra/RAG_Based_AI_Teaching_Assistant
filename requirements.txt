@@ -1,0 +1,4 @@
+requests
+endee
+# openai-whisper ( if you want to transcribe new audio files
+
